@@ -1,0 +1,12 @@
+﻿  1.cpp
+  Conveyor.cpp
+C:\Users\user\OneDrive\Документы\МРЗвИС\1\1\Conveyor.cpp(49,21): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\OneDrive\Документы\МРЗвИС\1\1\Conveyor.cpp(65,21): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\OneDrive\Документы\МРЗвИС\1\1\Conveyor.cpp(210,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\OneDrive\Документы\МРЗвИС\1\1\Conveyor.cpp(221,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\OneDrive\Документы\МРЗвИС\1\1\Conveyor.cpp(228,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\OneDrive\Документы\МРЗвИС\1\1\Conveyor.cpp(266,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\OneDrive\Документы\МРЗвИС\1\1\Conveyor.cpp(329,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\OneDrive\Документы\МРЗвИС\1\1\Conveyor.cpp(335,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  1.vcxproj -> C:\Users\user\OneDrive\Документы\МРЗвИС\1\Debug\1.exe
